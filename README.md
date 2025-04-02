@@ -1,0 +1,2 @@
+# IFT6135-HW2_2025
+Homework 2 of IFT6135
